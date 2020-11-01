@@ -1,0 +1,37 @@
+<resources>
+
+        <string name="app_name">MyViewAndViews</string>
+        <string name="content_text">Watch Dogs: Legion is an upcoming action-adventure game, developed by Ubisoft Toronto and published by Ubisoft. It is the third instalment in the Watch Dogs series, and the sequel to Watch Dogs 2.</string>
+        <string name="content_specs_platform">Platform:\n
+            Microsoft Windows \n
+            PlayStation 4\n
+            Xbox One\n
+            Stadia\n
+            Xbox Series X/S\n
+            PlayStation 5\n
+</string>
+        <string name="content_specs_genre">Action-adventure</string>
+        <string name="content_specs_max">Ultra-System Requirement - 3840x2160 (4K), Ultra preset: \n
+            CPU: Intel Core i9-9900K 3.6 GHz, AMD Ryzen 7 3700X 3.6 GHz \n
+            GPU: NVIDIA GeForce RTX 3080\n
+            Video memory: 10 GB\n
+            RAM: 16GB (Dual-channel setup)\n
+            Hard Disk Space: 45GB (+20 GB HD Texture Pack)\n
+            OS: Windows 10 (64 bit only)\n \n</string>
+    <string name="content_specs_min">Minimum System Requirements for 1920x1080, Low Preset, DX12\n
+        CPU: Intel Core i5-4460 3.2 GHz, AMD Ryzen 5 1400 3.2 GHz\n
+        GPU: NVIDIA GeForce GTX 970/GeForce GTX 1650\n
+        Video memory: 4GB\n
+        RAM: 8GB (Dual-channel setup)\n
+        Hard Disk Space: (45GB)\n
+        OS: Windows 10 (64 bit only)</string>
+    <string name="_6_photos">12 Photos</string>
+    <string name="_59_99_standart_edition">$59.99 (Standart Edition)</string>
+    <string name="stock_selama_masih_ada_di_ubisoft_store">Stock selama masih ada di Ubisoft Store</string>
+    <string name="info_game">Info Game</string>
+    <string name="genre">Genre</string>
+    <string name="system_requirement">System Requirement</string>
+    <string name="dijual_oleh">Dijual oleh</string>
+    <string name="narenda_wicaksono">Ubisoft</string>
+    <string name="beli">Beli</string>
+</resources>
